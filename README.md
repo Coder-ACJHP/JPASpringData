@@ -10,10 +10,9 @@
 </ul>
 <hr>
 <h2>How you can test it?</h2>
-<ul>
-<li>For getting all users go to this link on your browser</li><a href="localhost:8080/demo/all">localhost:8080/demo/all</a>
-<li>For adding new user go to this link on your browser</li><a href="localhost:8080/demo/add">localhost:8080/demo/add?username=<your name>&password=<your password>&status=<true or false></a>
-</ul>
+1-For getting all users go to this link on your browser<a href="localhost:8080/demo/all">localhost:8080/demo/all</a>
+2-For adding new user go to this link on your browser<a href="localhost:8080/demo/add">localhost:8080/demo/add?username=<your name>&password=<your password>&status=<true or false></a>
+  
 <h2>Another questions ?</h2> 
 For any question please email me at : <a href="mailto:hexa.octabin@gmail.com">hexa.octabin@gmail.com</a>
 <hr>
