@@ -5,7 +5,7 @@
 <ul>
 <li>Download the project from here.</li>
 <li>Import the <code>*.sql</code> file under <code>src/main/resources</code> that named with 'Dump20171119.sql' to your database server</li>
-<li>Change 'spring.datasource.username=' and 'spring.datasource.password=' with yours in file <code>src/main/resources/application.properties</code></li>
+  <li>Change <code>spring.datasource.username=</code> and <code>spring.datasource.password=</code> with yours in file <code>src/main/resources/application.properties</code></li>
 <li>Right click on project and choose Maven->Update project.. than Run as Java Application</li>
 </ul>
 <hr>
