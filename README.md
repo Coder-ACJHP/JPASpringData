@@ -1,5 +1,5 @@
 # Spring Data-Boot with JPA and Json
-<h2>This simple Spring boot MVC & Json application <b>*ZERO CONFIGURATION! No XML*</b> working on JPA (CRUD) with Spring Data.</h2>
+<h4>Spring MVC [boot] application with <b>*ZERO CONFIGURATION! No XML*</b> working on JPA (CRUD) with Spring Data.We will get the infromations as Json</h4>
 <hr>
 <h2>How it's work?</h2>
 <ul>
@@ -11,8 +11,8 @@
 <hr>
 <h2>How you can test it?</h2>
 <ul>
-<li>For getting all users go to <a href="localhost:8080/demo/all">localhost:8080/demo/all</a> on your browser</li>
-<li>For adding new user go to <a href="localhost:8080/demo/add">localhost:8080/demo/add?username=<your name>&password=<your password>&status=<true or false></a>on your browser</li>
+<li>For getting all users go to this link on your browser</li><a href="localhost:8080/demo/all">localhost:8080/demo/all</a>
+<li>For adding new user go to this link on your browser</li><a href="localhost:8080/demo/add">localhost:8080/demo/add?username=<your name>&password=<your password>&status=<true or false></a>
 </ul>
 <h2>Another questions ?</h2> 
 For any question please email me at : <a href="mailto:hexa.octabin@gmail.com">hexa.octabin@gmail.com</a>
